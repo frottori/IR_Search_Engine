@@ -1,4 +1,5 @@
 from collections import defaultdict
+import json
 
 def create_inverted_index(stemmed_data):
     inverted_index = defaultdict(list)
