@@ -1,6 +1,17 @@
 # Project
-## Wikipedia Arcticles used
+## Wikipedia Articles used
  - [Science](https://en.wikipedia.org/wiki/Science)
  - [Technology](https://en.wikipedia.org/wiki/Technology)
  - [Engineering](https://en.wikipedia.org/wiki/Engineering)
  - [Computer](https://en.wikipedia.org/wiki/Computer)
+ - [Math](https://en.wikipedia.org/wiki/Mathematics)
+ - [Robotics](https://en.wikipedia.org/wiki/Robotics)
+ - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+ - [History](https://en.wikipedia.org/wiki/History)
+ - [Art](https://en.wikipedia.org/wiki/Art)
+ - [Philosophy](https://en.wikipedia.org/wiki/Philosophy)
+ - [Literature](https://en.wikipedia.org/wiki/Literature)
+ - [Psychology](https://en.wikipedia.org/wiki/Psychology)
+ - [Politics](https://en.wikipedia.org/wiki/Politics)
+ - [Economics](https://en.wikipedia.org/wiki/Economics)
+ - [Sociology](https://en.wikipedia.org/wiki/Sociology)
