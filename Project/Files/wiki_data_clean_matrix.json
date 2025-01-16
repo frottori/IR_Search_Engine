@@ -1,6 +1,6 @@
 {
     "comput":{
-        "Computer":249,
+        "Computer":252,
         "Engineering":13,
         "Science":9,
         "Technology":12
@@ -14,7 +14,7 @@
     "program":{
         "Computer":87,
         "Engineering":1,
-        "Science":2,
+        "Science":0,
         "Technology":1
     },
     "automat":{
@@ -60,13 +60,13 @@
         "Technology":7
     },
     "digit":{
-        "Computer":17,
+        "Computer":19,
         "Engineering":2,
         "Science":0,
         "Technology":2
     },
     "electron":{
-        "Computer":24,
+        "Computer":25,
         "Engineering":14,
         "Science":1,
         "Technology":1
@@ -290,7 +290,7 @@
     "like":{
         "Computer":14,
         "Engineering":5,
-        "Science":6,
+        "Science":5,
         "Technology":18
     },
     "microwav":{
@@ -380,7 +380,7 @@
     "earli":{
         "Computer":18,
         "Engineering":7,
-        "Science":11,
+        "Science":10,
         "Technology":11
     },
     "meant":{
@@ -536,11 +536,11 @@
     "centuri":{
         "Computer":11,
         "Engineering":20,
-        "Science":31,
+        "Science":32,
         "Technology":9
     },
     "first":{
-        "Computer":45,
+        "Computer":47,
         "Engineering":13,
         "Science":16,
         "Technology":12
@@ -554,7 +554,7 @@
     "dure":{
         "Computer":7,
         "Engineering":12,
-        "Science":13,
+        "Science":12,
         "Technology":3
     },
     "world":{
@@ -654,7 +654,7 @@
         "Technology":0
     },
     "circuit":{
-        "Computer":24,
+        "Computer":25,
         "Engineering":4,
         "Science":1,
         "Technology":0
@@ -816,7 +816,7 @@
         "Technology":1
     },
     "one":{
-        "Computer":17,
+        "Computer":18,
         "Engineering":11,
         "Science":10,
         "Technology":6
@@ -962,7 +962,7 @@
     "eg":{
         "Computer":1,
         "Engineering":2,
-        "Science":3,
+        "Science":4,
         "Technology":0
     },
     "touchscreen":{
@@ -1244,7 +1244,7 @@
     "part":{
         "Computer":12,
         "Engineering":4,
-        "Science":3,
+        "Science":4,
         "Technology":2
     },
     "period":{
@@ -1388,7 +1388,7 @@
     "programm":{
         "Computer":14,
         "Engineering":5,
-        "Science":0,
+        "Science":2,
         "Technology":0
     },
     "date":{
@@ -1416,7 +1416,7 @@
         "Technology":0
     },
     "1937":{
-        "Computer":1,
+        "Computer":2,
         "Engineering":0,
         "Science":0,
         "Technology":0
@@ -1520,7 +1520,7 @@
     "record":{
         "Computer":2,
         "Engineering":0,
-        "Science":4,
+        "Science":3,
         "Technology":1
     },
     "keep":{
@@ -1742,7 +1742,7 @@
     "around":{
         "Computer":2,
         "Engineering":4,
-        "Science":6,
+        "Science":4,
         "Technology":11
     },
     "certain":{
@@ -1880,7 +1880,7 @@
     "c":{
         "Computer":3,
         "Engineering":3,
-        "Science":0,
+        "Science":2,
         "Technology":1
     },
     "100":{
@@ -1920,7 +1920,7 @@
         "Technology":3
     },
     "construct":{
-        "Computer":6,
+        "Computer":7,
         "Engineering":8,
         "Science":1,
         "Technology":7
@@ -1970,7 +1970,7 @@
     "11th":{
         "Computer":1,
         "Engineering":1,
-        "Science":0,
+        "Science":1,
         "Technology":0
     },
     "astrolab":{
@@ -2150,7 +2150,7 @@
     "1000":{
         "Computer":2,
         "Engineering":0,
-        "Science":1,
+        "Science":0,
         "Technology":1
     },
     "ad":{
@@ -2222,7 +2222,7 @@
     "16th":{
         "Computer":1,
         "Engineering":0,
-        "Science":2,
+        "Science":3,
         "Technology":0
     },
     "found":{
@@ -2328,7 +2328,7 @@
         "Technology":4
     },
     "concept":{
-        "Computer":6,
+        "Computer":7,
         "Engineering":2,
         "Science":7,
         "Technology":0
@@ -2460,7 +2460,7 @@
         "Technology":0
     },
     "swiss":{
-        "Computer":1,
+        "Computer":2,
         "Engineering":0,
         "Science":0,
         "Technology":0
@@ -2508,7 +2508,7 @@
         "Technology":0
     },
     "switch":{
-        "Computer":8,
+        "Computer":9,
         "Engineering":0,
         "Science":0,
         "Technology":0
@@ -2558,7 +2558,7 @@
     "along":{
         "Computer":2,
         "Engineering":1,
-        "Science":3,
+        "Science":4,
         "Technology":2
     },
     "mus\u00e9":{
@@ -2720,7 +2720,7 @@
     "scientist":{
         "Computer":3,
         "Engineering":5,
-        "Science":26,
+        "Science":27,
         "Technology":1
     },
     "sir":{
@@ -2900,7 +2900,7 @@
     "advanc":{
         "Computer":7,
         "Engineering":0,
-        "Science":12,
+        "Science":13,
         "Technology":7
     },
     "start":{
@@ -3002,7 +3002,7 @@
     "scienc":{
         "Computer":1,
         "Engineering":25,
-        "Science":129,
+        "Science":131,
         "Technology":9
     },
     "charl":{
@@ -3032,7 +3032,7 @@
     "consid":{
         "Computer":1,
         "Engineering":4,
-        "Science":8,
+        "Science":9,
         "Technology":3
     },
     "father":{
@@ -3050,11 +3050,11 @@
     "19th":{
         "Computer":1,
         "Engineering":4,
-        "Science":5,
+        "Science":6,
         "Technology":1
     },
     "hi":{
-        "Computer":19,
+        "Computer":20,
         "Engineering":2,
         "Science":8,
         "Technology":0
@@ -3164,7 +3164,7 @@
     "method":{
         "Computer":3,
         "Engineering":10,
-        "Science":22,
+        "Science":21,
         "Technology":3
     },
     "direct":{
@@ -3278,7 +3278,7 @@
     "major":{
         "Computer":2,
         "Engineering":2,
-        "Science":8,
+        "Science":9,
         "Technology":3
     },
     "eventu":{
@@ -3482,7 +3482,7 @@
     "histori":{
         "Computer":1,
         "Engineering":1,
-        "Science":7,
+        "Science":8,
         "Technology":2
     },
     "effort":{
@@ -3632,7 +3632,7 @@
     "scientif":{
         "Computer":1,
         "Engineering":9,
-        "Science":91,
+        "Science":92,
         "Technology":14
     },
     "met":{
@@ -3716,7 +3716,7 @@
     "art":{
         "Computer":1,
         "Engineering":7,
-        "Science":1,
+        "Science":2,
         "Technology":4
     },
     "reach":{
@@ -3820,6 +3820,90 @@
         "Engineering":0,
         "Science":2,
         "Technology":4
+    },
+    "claud":{
+        "Computer":1,
+        "Engineering":0,
+        "Science":0,
+        "Technology":0
+    },
+    "shannon":{
+        "Computer":1,
+        "Engineering":0,
+        "Science":0,
+        "Technology":0
+    },
+    "master":{
+        "Computer":1,
+        "Engineering":0,
+        "Science":0,
+        "Technology":1
+    },
+    "thesi":{
+        "Computer":2,
+        "Engineering":0,
+        "Science":0,
+        "Technology":0
+    },
+    "laid":{
+        "Computer":2,
+        "Engineering":0,
+        "Science":0,
+        "Technology":0
+    },
+    "foundat":{
+        "Computer":1,
+        "Engineering":4,
+        "Science":3,
+        "Technology":0
+    },
+    "insight":{
+        "Computer":1,
+        "Engineering":0,
+        "Science":0,
+        "Technology":0
+    },
+    "appli":{
+        "Computer":3,
+        "Engineering":15,
+        "Science":11,
+        "Technology":0
+    },
+    "boolean":{
+        "Computer":5,
+        "Engineering":0,
+        "Science":0,
+        "Technology":0
+    },
+    "algebra":{
+        "Computer":1,
+        "Engineering":0,
+        "Science":0,
+        "Technology":0
+    },
+    "analysi":{
+        "Computer":2,
+        "Engineering":3,
+        "Science":0,
+        "Technology":4
+    },
+    "synthesi":{
+        "Computer":1,
+        "Engineering":0,
+        "Science":1,
+        "Technology":0
+    },
+    "basic":{
+        "Computer":4,
+        "Engineering":1,
+        "Science":8,
+        "Technology":4
+    },
+    "underli":{
+        "Computer":1,
+        "Engineering":0,
+        "Science":0,
+        "Technology":0
     },
     "1938":{
         "Computer":1,
@@ -4158,7 +4242,7 @@
         "Technology":1
     },
     "z4":{
-        "Computer":1,
+        "Computer":2,
         "Engineering":0,
         "Science":0,
         "Technology":0
@@ -4176,7 +4260,7 @@
         "Technology":0
     },
     "due":{
-        "Computer":5,
+        "Computer":6,
         "Engineering":0,
         "Science":2,
         "Technology":1
@@ -4234,6 +4318,30 @@
         "Engineering":2,
         "Science":4,
         "Technology":1
+    },
+    "serv":{
+        "Computer":2,
+        "Engineering":0,
+        "Science":4,
+        "Technology":1
+    },
+    "inspir":{
+        "Computer":1,
+        "Engineering":0,
+        "Science":2,
+        "Technology":1
+    },
+    "ermeth":{
+        "Computer":1,
+        "Engineering":0,
+        "Science":0,
+        "Technology":0
+    },
+    "europ":{
+        "Computer":1,
+        "Engineering":0,
+        "Science":7,
+        "Technology":3
     },
     "pure":{
         "Computer":2,
@@ -4697,12 +4805,6 @@
         "Science":0,
         "Technology":1
     },
-    "boolean":{
-        "Computer":4,
-        "Engineering":0,
-        "Science":0,
-        "Technology":0
-    },
     "nine":{
         "Computer":1,
         "Engineering":0,
@@ -4820,7 +4922,7 @@
     "written":{
         "Computer":7,
         "Engineering":0,
-        "Science":2,
+        "Science":1,
         "Technology":0
     },
     "reset":{
@@ -5171,12 +5273,6 @@
         "Science":2,
         "Technology":0
     },
-    "laid":{
-        "Computer":1,
-        "Engineering":0,
-        "Science":0,
-        "Technology":0
-    },
     "join":{
         "Computer":1,
         "Engineering":0,
@@ -5190,7 +5286,7 @@
         "Technology":2
     },
     "physic":{
-        "Computer":3,
+        "Computer":4,
         "Engineering":16,
         "Science":24,
         "Technology":4
@@ -6104,7 +6200,7 @@
     "hybrid":{
         "Computer":3,
         "Engineering":0,
-        "Science":1,
+        "Science":0,
         "Technology":0
     },
     "connect":{
@@ -7679,12 +7775,6 @@
         "Science":1,
         "Technology":0
     },
-    "serv":{
-        "Computer":1,
-        "Engineering":0,
-        "Science":4,
-        "Technology":1
-    },
     "fifti":{
         "Computer":1,
         "Engineering":0,
@@ -8021,12 +8111,6 @@
         "Science":1,
         "Technology":2
     },
-    "basic":{
-        "Computer":3,
-        "Engineering":1,
-        "Science":8,
-        "Technology":4
-    },
     "computersg":{
         "Computer":1,
         "Engineering":0,
@@ -8054,7 +8138,7 @@
     "organ":{
         "Computer":2,
         "Engineering":4,
-        "Science":1,
+        "Science":0,
         "Technology":5
     },
     "largescal":{
@@ -8253,12 +8337,6 @@
         "Computer":3,
         "Engineering":1,
         "Science":0,
-        "Technology":0
-    },
-    "appli":{
-        "Computer":2,
-        "Engineering":15,
-        "Science":11,
         "Technology":0
     },
     "machine\u2013bas":{
@@ -8460,7 +8538,7 @@
         "Technology":0
     },
     "fact":{
-        "Computer":2,
+        "Computer":1,
         "Engineering":0,
         "Science":4,
         "Technology":0
@@ -8670,7 +8748,7 @@
         "Technology":0
     },
     "saw":{
-        "Computer":2,
+        "Computer":1,
         "Engineering":0,
         "Science":3,
         "Technology":1
@@ -8756,7 +8834,7 @@
     "final":{
         "Computer":1,
         "Engineering":0,
-        "Science":6,
+        "Science":5,
         "Technology":1
     },
     "video":{
@@ -8776,12 +8854,6 @@
         "Engineering":0,
         "Science":0,
         "Technology":0
-    },
-    "analysi":{
-        "Computer":1,
-        "Engineering":3,
-        "Science":0,
-        "Technology":4
     },
     "procedur":{
         "Computer":1,
@@ -9044,7 +9116,7 @@
     "american":{
         "Computer":1,
         "Engineering":1,
-        "Science":5,
+        "Science":6,
         "Technology":2
     },
     "credit":{
@@ -9179,6 +9251,12 @@
         "Science":0,
         "Technology":2
     },
+    "ubiquit":{
+        "Computer":2,
+        "Engineering":0,
+        "Science":0,
+        "Technology":0
+    },
     "email":{
         "Computer":1,
         "Engineering":0,
@@ -9205,12 +9283,6 @@
     },
     "adsl":{
         "Computer":1,
-        "Engineering":0,
-        "Science":0,
-        "Technology":0
-    },
-    "ubiquit":{
-        "Computer":2,
         "Engineering":0,
         "Science":0,
         "Technology":0
@@ -9329,12 +9401,6 @@
         "Science":0,
         "Technology":0
     },
-    "thesi":{
-        "Computer":1,
-        "Engineering":0,
-        "Science":0,
-        "Technology":0
-    },
     "minimum":{
         "Computer":1,
         "Engineering":0,
@@ -9374,7 +9440,7 @@
     "learn":{
         "Computer":2,
         "Engineering":2,
-        "Science":4,
+        "Science":5,
         "Technology":4
     },
     "adapt":{
@@ -9393,13 +9459,13 @@
         "Computer":2,
         "Engineering":3,
         "Science":2,
-        "Technology":7
+        "Technology":6
     },
     "intellig":{
         "Computer":2,
         "Engineering":1,
         "Science":1,
-        "Technology":8
+        "Technology":7
     },
     "fall":{
         "Computer":1,
@@ -9938,7 +10004,7 @@
     "classic":{
         "Computer":0,
         "Engineering":3,
-        "Science":6,
+        "Science":7,
         "Technology":0
     },
     "east":{
@@ -10040,7 +10106,7 @@
     "3000":{
         "Computer":0,
         "Engineering":1,
-        "Science":2,
+        "Science":0,
         "Technology":2
     },
     "evid":{
@@ -10274,13 +10340,13 @@
     "bronz":{
         "Computer":0,
         "Engineering":1,
-        "Science":1,
+        "Science":2,
         "Technology":2
     },
     "age":{
         "Computer":0,
         "Engineering":3,
-        "Science":6,
+        "Science":7,
         "Technology":6
     },
     "3700":{
@@ -10526,7 +10592,7 @@
     "6th":{
         "Computer":0,
         "Engineering":1,
-        "Science":1,
+        "Science":2,
         "Technology":0
     },
     "spin":{
@@ -11513,12 +11579,6 @@
         "Science":1,
         "Technology":0
     },
-    "foundat":{
-        "Computer":0,
-        "Engineering":4,
-        "Science":3,
-        "Technology":0
-    },
     "1800":{
         "Computer":0,
         "Engineering":1,
@@ -11636,7 +11696,7 @@
     "nineteenth":{
         "Computer":0,
         "Engineering":1,
-        "Science":1,
+        "Science":0,
         "Technology":0
     },
     "1880":{
@@ -11876,7 +11936,7 @@
     "tradit":{
         "Computer":0,
         "Engineering":4,
-        "Science":4,
+        "Science":5,
         "Technology":0
     },
     "environment":{
@@ -12033,7 +12093,7 @@
         "Computer":0,
         "Engineering":2,
         "Science":1,
-        "Technology":2
+        "Technology":1
     },
     "draw":{
         "Computer":0,
@@ -12128,7 +12188,7 @@
     "philosophi":{
         "Computer":0,
         "Engineering":1,
-        "Science":11,
+        "Science":12,
         "Technology":3
     },
     "behaviour":{
@@ -12194,7 +12254,7 @@
     "associ":{
         "Computer":0,
         "Engineering":2,
-        "Science":3,
+        "Science":4,
         "Technology":0
     },
     "impact":{
@@ -13664,7 +13724,7 @@
     "think":{
         "Computer":0,
         "Engineering":1,
-        "Science":1,
+        "Science":2,
         "Technology":0
     },
     "indepth":{
@@ -13748,13 +13808,13 @@
     "systemat":{
         "Computer":0,
         "Engineering":0,
-        "Science":7,
-        "Technology":2
+        "Science":6,
+        "Technology":1
     },
     "organis":{
         "Computer":0,
         "Engineering":0,
-        "Science":6,
+        "Science":8,
         "Technology":0
     },
     "testabl":{
@@ -13799,7 +13859,7 @@
         "Science":1,
         "Technology":1
     },
-    "1200":{
+    "3000\u20131200":{
         "Computer":0,
         "Engineering":0,
         "Science":2,
@@ -13865,7 +13925,7 @@
         "Science":7,
         "Technology":0
     },
-    "400":{
+    "400\u20131000":{
         "Computer":0,
         "Engineering":0,
         "Science":1,
@@ -13898,7 +13958,7 @@
     "flourish":{
         "Computer":0,
         "Engineering":0,
-        "Science":3,
+        "Science":4,
         "Technology":0
     },
     "manuscript":{
@@ -13912,12 +13972,6 @@
         "Engineering":0,
         "Science":1,
         "Technology":1
-    },
-    "europ":{
-        "Computer":0,
-        "Engineering":0,
-        "Science":7,
-        "Technology":3
     },
     "preserv":{
         "Computer":0,
@@ -14381,6 +14435,12 @@
         "Science":3,
         "Technology":0
     },
+    "nonposit":{
+        "Computer":0,
+        "Engineering":0,
+        "Science":1,
+        "Technology":0
+    },
     "heal":{
         "Computer":0,
         "Engineering":0,
@@ -14663,7 +14723,7 @@
         "Science":1,
         "Technology":0
     },
-    "467\u201368":{
+    "467\u2013468":{
         "Computer":0,
         "Engineering":0,
         "Science":1,
@@ -15023,12 +15083,6 @@
         "Science":1,
         "Technology":0
     },
-    "500":{
-        "Computer":0,
-        "Engineering":0,
-        "Science":1,
-        "Technology":0
-    },
     "question":{
         "Computer":0,
         "Engineering":0,
@@ -15070,12 +15124,6 @@
         "Engineering":0,
         "Science":1,
         "Technology":0
-    },
-    "inspir":{
-        "Computer":0,
-        "Engineering":0,
-        "Science":2,
-        "Technology":1
     },
     "galileo":{
         "Computer":0,
@@ -15137,10 +15185,10 @@
         "Science":1,
         "Technology":0
     },
-    "caliph":{
+    "abbasid":{
         "Computer":0,
         "Engineering":0,
-        "Science":1,
+        "Science":2,
         "Technology":0
     },
     "neighbour":{
@@ -15149,13 +15197,13 @@
         "Science":1,
         "Technology":0
     },
-    "sassanid":{
+    "sasanian":{
         "Computer":0,
         "Engineering":0,
         "Science":1,
         "Technology":0
     },
-    "gondeshapur":{
+    "gondishapur":{
         "Computer":0,
         "Engineering":0,
         "Science":1,
@@ -15173,11 +15221,11 @@
         "Science":1,
         "Technology":0
     },
-    "center":{
+    "hub":{
         "Computer":0,
         "Engineering":0,
         "Science":1,
-        "Technology":2
+        "Technology":0
     },
     "wisdom":{
         "Computer":0,
@@ -15185,10 +15233,10 @@
         "Science":1,
         "Technology":0
     },
-    "abbasidera":{
+    "capit":{
         "Computer":0,
         "Engineering":0,
-        "Science":1,
+        "Science":2,
         "Technology":0
     },
     "baghdad":{
@@ -15232,12 +15280,6 @@
         "Engineering":0,
         "Science":1,
         "Technology":0
-    },
-    "eleventh":{
-        "Computer":0,
-        "Engineering":0,
-        "Science":1,
-        "Technology":1
     },
     "christian":{
         "Computer":0,
@@ -15402,12 +15444,6 @@
         "Technology":0
     },
     "perspectiv":{
-        "Computer":0,
-        "Engineering":0,
-        "Science":1,
-        "Technology":0
-    },
-    "sixteenth":{
         "Computer":0,
         "Engineering":0,
         "Science":1,
@@ -16019,6 +16055,12 @@
         "Science":1,
         "Technology":0
     },
+    "hybridis":{
+        "Computer":0,
+        "Engineering":0,
+        "Science":1,
+        "Technology":0
+    },
     "outlin":{
         "Computer":0,
         "Engineering":0,
@@ -16385,12 +16427,6 @@
         "Science":2,
         "Technology":0
     },
-    "synthesi":{
-        "Computer":0,
-        "Engineering":0,
-        "Science":1,
-        "Technology":0
-    },
     "reconcil":{
         "Computer":0,
         "Engineering":0,
@@ -16725,7 +16761,7 @@
         "Computer":0,
         "Engineering":0,
         "Science":3,
-        "Technology":2
+        "Technology":1
     },
     "infer":{
         "Computer":0,
@@ -17891,12 +17927,6 @@
         "Science":1,
         "Technology":1
     },
-    "capit":{
-        "Computer":0,
-        "Engineering":0,
-        "Science":1,
-        "Technology":0
-    },
     "tax":{
         "Computer":0,
         "Engineering":0,
@@ -17957,6 +17987,18 @@
         "Science":1,
         "Technology":0
     },
+    "aaa":{
+        "Computer":0,
+        "Engineering":0,
+        "Science":1,
+        "Technology":0
+    },
+    "liber":{
+        "Computer":0,
+        "Engineering":0,
+        "Science":1,
+        "Technology":2
+    },
     "literaci":{
         "Computer":0,
         "Engineering":0,
@@ -17967,7 +18009,7 @@
         "Computer":0,
         "Engineering":0,
         "Science":1,
-        "Technology":2
+        "Technology":1
     },
     "versu":{
         "Computer":0,
@@ -18230,16 +18272,10 @@
     "politicis":{
         "Computer":0,
         "Engineering":0,
-        "Science":2,
+        "Science":3,
         "Technology":0
     },
     "antiintellectu":{
-        "Computer":0,
-        "Engineering":0,
-        "Science":1,
-        "Technology":0
-    },
-    "politic":{
         "Computer":0,
         "Engineering":0,
         "Science":1,
@@ -18393,7 +18429,7 @@
         "Computer":0,
         "Engineering":0,
         "Science":0,
-        "Technology":1
+        "Technology":2
     },
     "t\u00e9khn\u0113":{
         "Computer":0,
@@ -18414,6 +18450,12 @@
         "Technology":3
     },
     "\u03bb\u03bf\u03b3\u03af\u03b1":{
+        "Computer":0,
+        "Engineering":0,
+        "Science":0,
+        "Technology":1
+    },
+    "log\u00ed\u0101":{
         "Computer":0,
         "Engineering":0,
         "Science":0,
@@ -19415,6 +19457,12 @@
         "Science":0,
         "Technology":1
     },
+    "eleventh":{
+        "Computer":0,
+        "Engineering":0,
+        "Science":0,
+        "Technology":1
+    },
     "226":{
         "Computer":0,
         "Engineering":0,
@@ -19788,12 +19836,6 @@
         "Technology":1
     },
     "democraci":{
-        "Computer":0,
-        "Engineering":0,
-        "Science":0,
-        "Technology":2
-    },
-    "liber":{
         "Computer":0,
         "Engineering":0,
         "Science":0,
@@ -20441,12 +20483,6 @@
         "Science":0,
         "Technology":1
     },
-    "master":{
-        "Computer":0,
-        "Engineering":0,
-        "Science":0,
-        "Technology":1
-    },
     "possessor":{
         "Computer":0,
         "Engineering":0,
@@ -20782,6 +20818,12 @@
         "Engineering":0,
         "Science":0,
         "Technology":1
+    },
+    "center":{
+        "Computer":0,
+        "Engineering":0,
+        "Science":0,
+        "Technology":2
     },
     "stanford":{
         "Computer":0,
